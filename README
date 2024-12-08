@@ -1,0 +1,15 @@
+Part 1:
+
+how to run the project
+
+python main.py
+
+and you should add the text you want to check
+
+Part 2 and 3:
+
+We make part 2 and 3 in the same project
+
+how to run
+
+npm run dev
