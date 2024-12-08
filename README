@@ -12,4 +12,5 @@ We make part 2 and 3 in the same project
 
 how to run
 
-npm run dev
+1 ) npm i
+2 ) npm run dev
